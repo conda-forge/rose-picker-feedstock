@@ -8,7 +8,7 @@
 schema_version: 1
 
 context:
-  version: "2026.03.2"
+  version: "2026.07.1"
 
 package:
   name: rose-picker
@@ -16,7 +16,7 @@ package:
 
 source:
   url: https://github.com/MetOffice/rose_picker/archive/refs/tags/${{ version }}.tar.gz
-  sha256: 9d35cde4edee0069635b8170dd9e017f86f6a8f85b34917fbab545616edd1ce2
+  sha256: 7f0232ed94f5b9e343814462761484d171f8652f0f478b494dcb218d8ec53ef4
 
 build:
   number: 0
